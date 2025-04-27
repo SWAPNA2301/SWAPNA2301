@@ -1,5 +1,5 @@
 Hi there 👋
-I'm [SWAPNA PAL CHOWDHURY] — a passionate learner currently diving deep into the world of Front-End Development, Data Structures & Algorithms (DSA), and C++.
+I'm SWAPNA PAL CHOWDHURY — a passionate learner currently diving deep into the world of Front-End Development, Data Structures & Algorithms (DSA), and C++.
 I'm also deeply interested in Artificial Intelligence and Machine Learning, and constantly exploring how technology can shape the future! 🚀
 
 🔥 What I'm Learning
