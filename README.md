@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 I'm SWAPNA PAL CHOWDHURY — a passionate learner currently diving deep into the world of Front-End Development, Data Structures & Algorithms (DSA), I'm also deeply interested in DEVops, and constantly exploring how technology can shape the future! 🚀<br><br>📚 DSA<br><br>🛠️ Tools and Technologies Languages: C, Python, java<br><br>Tools: Git, GitHub, VS Code<br><br>📫 How to reach me LinkedIn: Swapna Pal Chowdhury
+Hi there I'm SWAPNA PAL CHOWDHURY — a passionate learner currently diving deep into the world of Front-End Development, Data Structures & Algorithms (DSA), I'm also deeply interested in DEVops, and constantly exploring how technology can shape the future! 🚀<br><br>📚 DSA<br><br>🛠️ Tools and Technologies Languages: C, Python, java<br><br>Tools: Git, GitHub, VS Code<br><br>📫 How to reach me LinkedIn: Swapna Pal Chowdhury
 
 
 ## 🌐 Socials:
