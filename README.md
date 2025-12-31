@@ -1,4 +1,3 @@
-# 💫 About Me:
 HELLO! IM SWAPNA PAL CHOWDHURY <br>WELCOME TO MY PROFILE :)<br>im currently working on Frontend Dev and a UiUx  designer , and i try to do dsa twice or thrice a week.<br>
 
 
