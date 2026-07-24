@@ -1,4 +1,4 @@
-Aspiring Data Scientist ! UI/UX Designer by passion.
+hola folks
 
 
 ## 🌐 Socials:
